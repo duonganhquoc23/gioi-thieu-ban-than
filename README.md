@@ -1,19 +1,18 @@
+# Giới thiệu bản thân
 
-# gioi-thieu-ban-than
+## 👤 Thông tin cá nhân
+- **Họ và tên:** Dương Anh Quốc  
+- **Ảnh đại diện:**  
+  ![Ảnh đại diện](https://i.imgur.com/JLxjEWY.jpeg)
 
-- **Họ và tên:** Dương Anh Quốc
-![alt text] (https://i.imgur.com/tG6sjvC.jpeg)
+## 🧑‍💻 Giới thiệu
+Xin chào! Mình là **Dương Anh Quốc**, sinh viên năm hai ngành **Sư phạm Tin học** – Trường **ĐHSP, Đại học Huế**.
 
-Xin chào! Mình là Dương Anh Quốc, sinh viên năm hai ngành Sư phạm Tin học - Trường ĐHSP, Đại học Huế. 
-
-Sở thích:
+## 🎯 Sở thích
 - Lập trình và khám phá công nghệ mới  
 - Nghe nhạc và xem phim  
 - Du lịch cùng bạn bè  
 
-Thông tin liên hệ:
-- Email: aquocduong76@gmail.com 
-- SDT: 0367090125
-
-# gioi-thieu-ban-than
-
+## 📫 Thông tin liên hệ
+- **Email:** aquocduong76@gmail.com  
+- **SĐT:** 0367090125
